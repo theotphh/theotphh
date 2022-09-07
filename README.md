@@ -11,7 +11,10 @@ un peu de syntaxe
 - list 1
 - list 2
 - list 3
-- list 4
 
 ## **Un truc en gras**
-on encadre le texte avec **deux étoiles**.
+on encadre le texte avec **deux étoiles**
+
+## Une image :
+
+![Tux, the Linux mascot](/tux.png)
