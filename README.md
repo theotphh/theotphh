@@ -18,3 +18,6 @@ on encadre le texte avec **deux étoiles**
 ## Une image :
 
 ![Tux, the Linux mascot](/tux.png)
+
+
+[Les bonnes pratiques en informatiques](https://lycee-benoit.tech/NSI/prem/git/git.html)
